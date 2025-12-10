@@ -50,3 +50,7 @@ Middleware is being called successfully:
 ✅ Middleware executes  
 ✅ Response status: 200  
 ❌ Response body is broken
+
+
+## Solution (Temporary Workaround)
+This issue is tracked in [withastro/astro#14511]([ссылка](https://github.com/withastro/astro/issues/14511)).
